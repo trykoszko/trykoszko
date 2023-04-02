@@ -4,14 +4,10 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/michal-trykoszko)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:trykoszkom@gmail.com)
 
----
-
 ## 💻 Code samples
 [📱 React Native Mobile App](https://github.com/trykoszko/events-react-native-app)
 
 [⚙️ Nest.js Back-end App](https://github.com/trykoszko/events-nests-js-app)
-
----
 
 ## 💾 Tech Stack
 
@@ -64,13 +60,10 @@
 ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=flat-square&logo=Adobe%20XD&logoColor=#FF61F6)
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat-square&logo=jira&logoColor=white)
 
----
-
 ## Profile & contribution info
 ![](https://github-readme-streak-stats.herokuapp.com/?user=trykoszko&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=trykoszko&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
----
 [![](https://visitcount.itsvg.in/api?id=trykoszko&icon=0&color=1)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
