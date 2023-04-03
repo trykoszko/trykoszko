@@ -1,4 +1,5 @@
-# 🧑 Mike Trykoszko - Full-stack Node.js & React developer ⚒️
+# 🧑 Mike Trykoszko
+Hi! I'm Mike - a Full stack Node.js & React developer.
 
 ## 📮 Contact
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/michal-trykoszko)
