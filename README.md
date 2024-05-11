@@ -1,9 +1,5 @@
 👋 Hey there! I'm Mike, a full-stack JavaScript developer based in Poland with over 6 years of experience. My passion lies in crafting robust backend applications using Nest.js, but I also enjoy diving into React Native and Next.js for frontend development. I've had the pleasure of collaborating with clients from around the globe, including Great Britain, Germany, Austria, Poland, USA, and Brazil, primarily in remote settings. Additionally, I have a background in PHP and WordPress plugin/theme development. Fascinated by cloud technologies and cloud-native architectures, I'm always eager to explore new possibilities in the ever-evolving tech landscape. Let's connect and build something amazing together! 💻☁️
 
-## 📮 Contact
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/michal-trykoszko)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:trykoszkom@gmail.com)
-
 ## 💾 Tech Stack
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
